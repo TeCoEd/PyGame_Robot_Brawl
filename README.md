@@ -1,6 +1,5 @@
 # PyGame_Robot_Brawl
 A Pygame program to control the Maplin Robot Arm.
-
 ![](images/usb.jpg)
 
 My Computing club coded this soultion to control the Maplin Robot Arm with the Raspberry Pi and aslo Pygame.  
